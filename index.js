@@ -119,4 +119,4 @@ createServer((peticion,respuesta) => {
         });
     }
 
-}).listen(4000);
+}).listen(process.env.PORT || 4000); //Cambiamos el puerto de salida en el caso de que sea necesario
