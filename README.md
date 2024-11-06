@@ -1,4 +1,4 @@
-# Ejercicio Mi Primer Servidor Estático 📚
+# Mi Primer Servidor Estático
 Este repositorio contiene un servidor estático, desarrollado como ejercicio de un curso. La estructura y el diseño se han realizado utilizando solo HTML y JS.
 
 ## Propósito
