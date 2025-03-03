@@ -1,4 +1,4 @@
-# Mi Primer Servidor Estático
+# Mi Primer Servidor Estático 🔅
 Este repositorio contiene un servidor estático, desarrollado como ejercicio de un curso.
 
 ## 📌 Descripción
